@@ -97,7 +97,7 @@ public class CountryPicker implements BottomSheetInteractionListener, LifecycleO
       new Country("CX", "Christmas Island", "+61", R.drawable.flag_cx, "AUD"),
       new Country("CY", "Cyprus", "+357", R.drawable.flag_cy, "EUR"),
       new Country("CZ", "Czech Republic", "+420", R.drawable.flag_cz, "CZK"),
-      new Country("DE", "Germany", "+49", R.drawable.flag_de, "EUR"),
+      new Country("DE", "Deutschland", "+49", R.drawable.flag_de, "EUR"),
       new Country("DJ", "Djibouti", "+253", R.drawable.flag_dj, "DJF"),
       new Country("DK", "Denmark", "+45", R.drawable.flag_dk, "DKK"),
       new Country("DM", "Dominica", "+1-767", R.drawable.flag_dm, "XCD"),
